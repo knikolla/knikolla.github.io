@@ -6,8 +6,8 @@ highlighter:      rb-pygments
 permalink:        pretty
 
 # Setup
-title:            knikolla
-tagline:          'Kristi Nikolla'
+title:            Kristi Nikolla
+tagline:          ''
 description:      ''
 url:              http://knikolla.github.io
 baseurl:          /
@@ -19,6 +19,7 @@ author:
 gems: [jekyll-paginate, jekyll-gist]
 paginate:         5
 paginate_path: "page:num"
+excerpt_separator: <!--more-->
 
 # Custom vars
 version:          1.0.0

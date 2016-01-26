@@ -10,7 +10,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <span class="sidebar-nav-item">
+      <p>
         <a href="https://github.com/knikolla"><i class="fa fa-lg fa-github"></i></a>
         &nbsp;
         <a href="https://linkedin.com/in/knikolla"><i class="fa fa-lg fa-linkedin"></i></a>
@@ -20,7 +20,7 @@
         <a href="https://facebook.com/nikollakristi"><i class="fa fa-lg fa-facebook"></i></a>
         &nbsp;
         <a href="https://reddit.com/u/knikolla"><i class="fa fa-lg fa-reddit"></i></a>
-      </span>
+      </p>
 
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
@@ -36,12 +36,13 @@
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
-      {% endfor %}
-
-      <span class="sidebar-nav-item">Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="http://hyde.getpoole.com/">Hyde</a>. </span>
-      
+      {% endfor %}      
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>
+      Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="http://hyde.getpoole.com/">Hyde</a>.
+      <br />
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    </p>
   </div>
 </div>
