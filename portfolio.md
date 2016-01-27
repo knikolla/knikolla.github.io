@@ -22,5 +22,7 @@ or contributed in developing.
 
 # Open Source Contributions
 
-* [ChRIS](https://github.com/FNNDSC/chrisreloaded) - 
-	OpenStack scheduler developed during BU EC500 Cloud Computing for the radiology information system at the Boston Children's Hospital.
+* [OpenStack scheduler](https://github.com/BU-EC500-SP15/rad-cloud) 	developed during BU EC500 Cloud Computing for 
+	[ChRIS](https://github.com/FNNDSC/chrisreloaded),
+	the radiology information system of the Boston Children's
+	Hospital.
