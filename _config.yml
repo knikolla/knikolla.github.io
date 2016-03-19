@@ -1,5 +1,5 @@
 # Dependencies
-highlighter:      rb-pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
