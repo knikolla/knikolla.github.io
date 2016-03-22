@@ -26,6 +26,6 @@ or contributed in developing.
 	[ChRIS](https://github.com/FNNDSC/chrisreloaded),
 	the radiology information system of the Boston Children's
 	Hospital.
-* OpenStack
+* [OpenStack](http://stackalytics.com/?user_id=knikolla&project_type=openstack&release=all&metric=marks)
   * [Keystone](https://github.com/openstack/keystone/commits/master?author=knikolla)
 
