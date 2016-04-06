@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Federated OpenStackClient
+title: K2K OpenStackClient
 ---
 
 <div class="message">
-  OpenStackClient proof of concept to send commands to federated Service Providers.
+  OpenStackClient proof of concept to send commands to federated Service Providers using K2K.
 </div>
 <!--more-->
 
@@ -12,7 +12,7 @@ title: Federated OpenStackClient
 ## Why?
 Currently there is no way to performs calls to the federated Service Providers using OpenStackClient or the various python-\*client.
 
-With a new command line option `--sp`, users should be able to direct that call to the specified service provider.
+With a new command line option `--sp`, users should be able to direct that call to the specified service provider using K2K.
 
 [Here](http://paste.openstack.org/show/491281/) is a short demo on which we query Glance for the image list in the Service Provider and boot an instance there using one of the images.
 
