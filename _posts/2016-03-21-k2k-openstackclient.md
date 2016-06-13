@@ -3,9 +3,7 @@ layout: post
 title: K2K OpenStackClient
 ---
 
-<div class="message">
-  OpenStackClient proof of concept to send commands to federated Service Providers using K2K.
-</div>
+OpenStackClient proof of concept to send commands to federated Service Providers using K2K.
 <!--more-->
 
 

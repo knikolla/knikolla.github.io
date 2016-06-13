@@ -3,9 +3,9 @@ layout: post
 title: Hats? Global Game Jam 2015
 ---
 
-<div class="message">
-  Had such a blast at the Global Game Jam 2015 @ Northeastern University as part of Team Boulder (alongside Matt Long, Nicole Amidon, Walton Lee, Nathan Low, Sarah Zaidan, Rui Jiang). We developed a 2D side-scrolling platformer in Unity called “Hats?“.
-</div>
+
+Had such a blast at the Global Game Jam 2015 @ Northeastern University as part of Team Boulder (alongside Matt Long, Nicole Amidon, Walton Lee, Nathan Low, Sarah Zaidan, Rui Jiang). We developed a 2D side-scrolling platformer in Unity called “Hats?“.
+
 <!--more-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/os5YSvCLdg4" frameborder="0" allowfullscreen></iframe>
