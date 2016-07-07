@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Multi-OpenStack networks with OpenContrail
+tags: OpenStack
 published: false
 ---
 
