@@ -1,7 +1,7 @@
 ---
 layout: post
 title: K2K OpenStackClient
-category: OpenStack
+tags: [OpenStack]
 ---
 
 OpenStackClient proof of concept to send commands to federated Service Providers using K2K.

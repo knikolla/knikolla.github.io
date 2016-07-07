@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keystone to Keystone Proxy for Services
-category: OpenStack
+tags: [OpenStack]
 ---
 
 This article explores a complementary and optional addition to the original idea about Resource Federation in OpenStack.

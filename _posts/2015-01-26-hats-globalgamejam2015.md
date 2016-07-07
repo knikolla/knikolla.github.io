@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hats? Global Game Jam 2015
-category: GameDev
+tags: [GameDev]
 ---
 
 
