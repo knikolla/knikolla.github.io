@@ -53,4 +53,4 @@ We should give each of our DevStacks unique [ASN]
 Now go to `Infrastructure -> Networks -> BGP Peering` and register the
 nodes as BGP peers of each other.
 
-To be continued. 
+To be continued.
