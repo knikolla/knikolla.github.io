@@ -9,10 +9,7 @@ title: Resume
 
 # Work
 * 2016 (current) - Software Engineer, Massachusetts Open Cloud
+* 2015 (5 months) - Intern, Massachusetts Open Cloud
 * 2014 (4 months) - Software Developer, ProTech Albania
+* 2010 (3 months) - Intern, TCN Albania
 * 2008 (3 months) - Web Designer, Keminet Shpk
-
-
-# Internships
-* 2010 (3 months) - TCN Albania
-* 2015 (5 months) - Massachusetts Open Cloud
