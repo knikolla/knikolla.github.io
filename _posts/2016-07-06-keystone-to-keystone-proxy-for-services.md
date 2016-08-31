@@ -8,6 +8,8 @@ This article explores a complementary and optional addition to the original idea
 
 <!--more-->
 
+	UPDATE: We're now going with a full proxy solution running as a service.
+
 # Resource Federation
 
 [Resource Federation](http://info.massopencloud.org/blog/mixmatch-federation/) is a **Massachusetts Open Cloud** Project to enable a multi-landlord cloud model using OpenStack, where different service providers can setup competing services in a single cloud. Users can then federate the resources between the multiple service providers.
