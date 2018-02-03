@@ -9,7 +9,7 @@ title:            Kristi Nikolla
 tagline:          ''
 description:      ''
 url:              https://knikolla.github.io
-baseurl:          /
+baseurl:          https://knikolla.github.io
 
 author:
   name:           'Kristi Nikolla'
