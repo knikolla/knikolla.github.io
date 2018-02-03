@@ -8,15 +8,15 @@ permalink:        pretty
 title:            Kristi Nikolla
 tagline:          ''
 description:      ''
-url:              https://knikolla.github.io
-baseurl:          https://knikolla.github.io
+url:              http://kristi.nikolla.me
+baseurl:          http://kristi.nikolla.me
 
 author:
   name:           'Kristi Nikolla'
-  url:            https://knikolla.github.io
+  url:            http://kristi.nikolla.me
 
 gems: [jekyll-paginate, jekyll-gist]
-paginate:         5
+paginate:         10
 paginate_path: "page:num"
 excerpt_separator: <!--more-->
 
