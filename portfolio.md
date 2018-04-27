@@ -4,7 +4,16 @@ title: Portfolio
 ---
 
 Software, games and other stuff I have developed
-or contributed in developing. 
+or contributed in developing.
+
+# Open Source Contributions
+
+* [OpenStack](http://stackalytics.com/?user_id=knikolla&project_type=openstack&release=all&metric=marks)
+  * [Keystone](https://github.com/openstack/keystone/commits/master?author=knikolla)
+* [OpenStack scheduler](https://github.com/BU-EC500-SP15/rad-cloud) 	developed during BU EC500 Cloud Computing for 
+	[ChRIS](https://github.com/FNNDSC/chrisreloaded),
+	the radiology information system of the Boston Children's
+	Hospital.
 
 # Games
 
@@ -20,12 +29,6 @@ or contributed in developing.
 * [espeak-sq](https://github.com/knikolla/espeak-sq) -
 	Albanian pronunciation rules for the Espek speech synthesizer.
 
-# Open Source Contributions
 
-* [OpenStack scheduler](https://github.com/BU-EC500-SP15/rad-cloud) 	developed during BU EC500 Cloud Computing for 
-	[ChRIS](https://github.com/FNNDSC/chrisreloaded),
-	the radiology information system of the Boston Children's
-	Hospital.
-* [OpenStack](http://stackalytics.com/?user_id=knikolla&project_type=openstack&release=all&metric=marks)
-  * [Keystone](https://github.com/openstack/keystone/commits/master?author=knikolla)
+
 

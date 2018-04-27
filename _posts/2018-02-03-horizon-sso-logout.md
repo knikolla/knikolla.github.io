@@ -30,11 +30,11 @@ Create a new file in `/var/www/html/logout.html` with the below contents, replac
 
 ```html
 <html>
-<head></head>
+<head>
+<meta http-equiv="refresh" content="2; url=https://example.com/identity/v3/auth/OS-FEDERATION/websso?logout=https%3A%2F%2Fexample.com%2Fdashboard" />
+</head>
 <body>
-<script>
-window.location.replace('https://example.com/identity/v3/auth/OS-FEDERATION/websso?logout=https%3A%2F%2Fexample.com%2Fdashboard');
-</script>
+<p>Please wait...</p>
 </body>
 </head>
 </html>
