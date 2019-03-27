@@ -8,12 +8,12 @@ permalink:        pretty
 title:            Kristi Nikolla
 tagline:          ''
 description:      ''
-url:              https://kristi.nikolla.me
-baseurl:          https://kristi.nikolla.me
+url:              https://knikolla.github.io
+baseurl:          https://knikolla.github.io
 
 author:
   name:           'Kristi Nikolla'
-  url:            https://kristi.nikolla.me
+  url:            https://knikolla.github.io
 
 gems: [jekyll-paginate, jekyll-gist]
 paginate:         10
